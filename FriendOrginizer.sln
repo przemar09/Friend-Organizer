@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendOrginizer.UI", "FriendOrginizer.UI\FriendOrginizer.UI.csproj", "{0D8BC0C6-5AFE-41A1-BE84-602B03E99F91}"
+	ProjectSection(ProjectDependencies) = postProject
+		{985CC5A1-0722-4FB6-8AC4-D27E61144DAA} = {985CC5A1-0722-4FB6-8AC4-D27E61144DAA}
+		{27E214CD-E3B2-4714-809F-9DB3D6DEFAED} = {27E214CD-E3B2-4714-809F-9DB3D6DEFAED}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendOrginizer.DataAccess", "FriendOrginizer.DataAccess\FriendOrginizer.DataAccess.csproj", "{27E214CD-E3B2-4714-809F-9DB3D6DEFAED}"
+	ProjectSection(ProjectDependencies) = postProject
+		{985CC5A1-0722-4FB6-8AC4-D27E61144DAA} = {985CC5A1-0722-4FB6-8AC4-D27E61144DAA}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendOrginizer.Model", "FriendOrginizer.Model\FriendOrginizer.Model.csproj", "{985CC5A1-0722-4FB6-8AC4-D27E61144DAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D8BC0C6-5AFE-41A1-BE84-602B03E99F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D8BC0C6-5AFE-41A1-BE84-602B03E99F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D8BC0C6-5AFE-41A1-BE84-602B03E99F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D8BC0C6-5AFE-41A1-BE84-602B03E99F91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27E214CD-E3B2-4714-809F-9DB3D6DEFAED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27E214CD-E3B2-4714-809F-9DB3D6DEFAED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27E214CD-E3B2-4714-809F-9DB3D6DEFAED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27E214CD-E3B2-4714-809F-9DB3D6DEFAED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{985CC5A1-0722-4FB6-8AC4-D27E61144DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{985CC5A1-0722-4FB6-8AC4-D27E61144DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{985CC5A1-0722-4FB6-8AC4-D27E61144DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{985CC5A1-0722-4FB6-8AC4-D27E61144DAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A39AC0A5-7357-495B-9702-A99D4DC51880}
+	EndGlobalSection
+EndGlobal

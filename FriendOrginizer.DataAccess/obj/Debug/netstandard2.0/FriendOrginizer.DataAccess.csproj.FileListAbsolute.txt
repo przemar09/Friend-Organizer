@@ -1,0 +1,9 @@
+C:\Users\Programmer\source\repos\FriendOrginizer\FriendOrginizer.DataAccess\bin\Debug\netstandard2.0\FriendOrginizer.DataAccess.deps.json
+C:\Users\Programmer\source\repos\FriendOrginizer\FriendOrginizer.DataAccess\bin\Debug\netstandard2.0\FriendOrginizer.DataAccess.dll
+C:\Users\Programmer\source\repos\FriendOrginizer\FriendOrginizer.DataAccess\bin\Debug\netstandard2.0\FriendOrginizer.DataAccess.pdb
+C:\Users\Programmer\source\repos\FriendOrginizer\FriendOrginizer.DataAccess\obj\Debug\netstandard2.0\FriendOrginizer.DataAccess.csprojAssemblyReference.cache
+C:\Users\Programmer\source\repos\FriendOrginizer\FriendOrginizer.DataAccess\obj\Debug\netstandard2.0\FriendOrginizer.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Programmer\source\repos\FriendOrginizer\FriendOrginizer.DataAccess\obj\Debug\netstandard2.0\FriendOrginizer.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Programmer\source\repos\FriendOrginizer\FriendOrginizer.DataAccess\obj\Debug\netstandard2.0\FriendOrginizer.DataAccess.AssemblyInfo.cs
+C:\Users\Programmer\source\repos\FriendOrginizer\FriendOrginizer.DataAccess\obj\Debug\netstandard2.0\FriendOrginizer.DataAccess.dll
+C:\Users\Programmer\source\repos\FriendOrginizer\FriendOrginizer.DataAccess\obj\Debug\netstandard2.0\FriendOrginizer.DataAccess.pdb

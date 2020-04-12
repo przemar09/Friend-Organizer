@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jg4vo1bYVT8QNhCqvStuadwEU3Y2tW4RIFETl+v9V8f9R4Y+x1Y5gLgbA2D9XtOaBKNuoLFvvArIaP9hY8itUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Programmer\\source\\repos\\FriendOrginizer\\FriendOrginizer.UI\\FriendOrginizer.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Programmer\\.nuget\\packages\\autofac\\5.1.2\\autofac.5.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

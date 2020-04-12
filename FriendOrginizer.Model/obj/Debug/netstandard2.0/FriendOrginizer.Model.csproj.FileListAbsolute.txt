@@ -1,0 +1,9 @@
+C:\Users\Programmer\source\repos\FriendOrginizer\FriendOrginizer.Model\bin\Debug\netstandard2.0\FriendOrginizer.Model.deps.json
+C:\Users\Programmer\source\repos\FriendOrginizer\FriendOrginizer.Model\bin\Debug\netstandard2.0\FriendOrginizer.Model.dll
+C:\Users\Programmer\source\repos\FriendOrginizer\FriendOrginizer.Model\bin\Debug\netstandard2.0\FriendOrginizer.Model.pdb
+C:\Users\Programmer\source\repos\FriendOrginizer\FriendOrginizer.Model\obj\Debug\netstandard2.0\FriendOrginizer.Model.csprojAssemblyReference.cache
+C:\Users\Programmer\source\repos\FriendOrginizer\FriendOrginizer.Model\obj\Debug\netstandard2.0\FriendOrginizer.Model.csproj.CoreCompileInputs.cache
+C:\Users\Programmer\source\repos\FriendOrginizer\FriendOrginizer.Model\obj\Debug\netstandard2.0\FriendOrginizer.Model.AssemblyInfoInputs.cache
+C:\Users\Programmer\source\repos\FriendOrginizer\FriendOrginizer.Model\obj\Debug\netstandard2.0\FriendOrginizer.Model.AssemblyInfo.cs
+C:\Users\Programmer\source\repos\FriendOrginizer\FriendOrginizer.Model\obj\Debug\netstandard2.0\FriendOrginizer.Model.dll
+C:\Users\Programmer\source\repos\FriendOrginizer\FriendOrginizer.Model\obj\Debug\netstandard2.0\FriendOrginizer.Model.pdb
